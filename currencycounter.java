@@ -1,4 +1,4 @@
-
+//Currency Converter project is made with the help of core java.
     import java.util.Scanner;
 	public class currencycounter{
 
